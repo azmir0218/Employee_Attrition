@@ -1,0 +1,365 @@
+﻿EMPID,Leaver(Y/N),Age,Gender,Race_Ethnicity,Job_Level,Annual_Salary,Position,CurrentPayGrade,TimewithCompany(yrs),DistancetoWork(miles),Hybrid/Remote,Dept_Name,Status,Salary_Max%
+ A0ZU,No,35, Female, Unspecified, Administrative Support Workers,20.8, Benefits and Payroll Coordinator,11,0.33,0.00,Remote,HR, Full Time,0.00
+ A0YO,Yes,31, Female, Unspecified, First/Mid-Level Officials and Managers,20.8, Camp Director,7,0.92,45.21,Hybrid,Outdoor Education - CTR, Full Time,0.00
+ A03Y,Yes,63, Male, Black or African American, Laborers and Helpers,"9,547.20", Guest Services and Maintenance Specialist - PT,13,3.58,41.49,Hybrid,Risk and Facilities, Part Time,0.21
+ A13D,Yes,29, Female, White, Sales Workers,"10,400.00", Customer Service Representative - PT,13,1.25,21.94,Hybrid,Badge & Sash, Part Time,0.23
+ A1FN,Yes,33, Female, Black or African American, Sales Workers,"10,400.00", Customer Service Representative - PT,13,7.50,0.00,Remote,Badge & Sash, Part Time,0.23
+ A18N,Yes,29, Female, White, Administrative Support Workers,"11,700.00", Production Assistant,11,1.00,23.34,Hybrid,Marketing, Part Time,0.26
+ A0G9,Yes,59, Female, White, Sales Workers,"12,854.40", Lead Customer Service Representative,13,11.00,52.52,Hybrid,Badge & Sash, Full Time,0.28
+ A1GB,No,43, Unspecified, Unspecified, Sales Workers,"13,000.00", Customer Service Representative,13,18.58,7.32,Hybrid,Badge & Sash, Full Time,0.29
+ A0Z7,Yes,39, Female, Unspecified, Sales Workers,"13,312.00", Customer Service Representative - PT,13,2.42,20.34,Hybrid,Badge & Sash, Part Time,0.29
+ A0LA,Yes,31, Female, White, Sales Workers,"13,858.00", Customer Service Representative - PT,13,1.75,11.34,Hybrid,Badge & Sash, Part Time,0.31
+ A0U8,Yes,40, Female, Black or African American, Administrative Support Workers,"14,996.80", Mailroom and Business Support Associate,13,0.17,7.94,Hybrid,Risk and Facilities, Full Time,0.33
+ A1KZ,Yes,49, Female, Black or African American, Sales Workers,"15,464.80", Customer Service Representative - PT,11,3.75,0.00,Remote,Badge & Sash, Part Time,0.34
+ A1FB,Yes,35, Female, Black or African American, Administrative Support Workers,"15,464.80", Production Assistant,11,6.58,10.82,Hybrid,Marketing, Part Time,0.34
+ A0ZQ,Yes,51, Female, Black or African American, Administrative Support Workers,"15,600.00", Council Trainer,12,4.92,0.00,Remote,Program Support, Part Time,0.30
+ A134,Yes,42, Female, Hispanic or Latino, Administrative Support Workers,"15,600.00", Council Trainer,12,1.08,0.00,Remote,Program Support, Part Time,0.30
+ A1GV,Yes,46, Female, Black or African American, Sales Workers,"15,683.20", Customer Service Representative - PT,11,2.00,8.28,Hybrid,Badge & Sash, Part Time,0.34
+ A1P9,No,22, Female, White, Administrative Support Workers,"17,680.00", Donor Services Coordinator,11,1.33,8.22,Hybrid,Fund Development, Full Time,0.39
+ A1FV,No,29, Female, Black or African American, Sales Workers,"19,500.00", Customer Service Representative,13,4.42,24.73,Hybrid,Badge & Sash, Full Time,0.43
+ A1D3,No,42, Female, Black or African American, Administrative Support Workers,"20,248.80", Accounting Clerk,10,0.00,8.28,Hybrid,Finance, Full Time,0.39
+ A1OM,Yes,25, Female, Black or African American, Professionals,"20,280.00", Trainer - PT,10,11.92,0.00,Remote,Program Support, Part Time,0.39
+ A1ON,No,48, Female, White, Professionals,"20,280.00", Trainer - PT,10,1.92,0.00,Remote,Program Support, Part Time,0.39
+ A0VK,Yes,32, Female, Black or African American, Sales Workers,"20,800.00", Customer Service Representative,13,0.00,6.73,Hybrid,Badge & Sash, Full Time,0.46
+ A1FL,Yes,34, Female, Black or African American, Professionals,"20,800.00", Finance Reporting Specialist ,12,1.08,15.42,Hybrid,Finance, Part Time,0.40
+ A1LN,Yes,30, Female, Black or African American, Professionals,"20,800.00", Operational Reporting Specialist,10,0.83,9.32,Hybrid,Mission Delivery, Part Time,0.40
+ A0YX,No,52, Female, Hispanic or Latino, Administrative Support Workers,"21,091.20", Administrative Assistant - PT,10,0.75,8.28,Hybrid,Marketing, Part Time,0.40
+ A18D,Yes,36, Female, Black or African American, Professionals,"21,424.00", Operational Reporting Specialist,10,0.92,12.54,Hybrid,Mission Delivery, Part Time,0.41
+ A1GD,No,36, Female, White, Administrative Support Workers,"22,100.00", Product Program Logistics Specialist,11,2.42,37.31,Hybrid,Product Programs, Part Time,0.48
+ A051,Yes,53, Female, Black or African American, Administrative Support Workers,"22,287.20", Administrative Assistant- Program Support,12,0.25,11.63,Hybrid,Program Support, Full Time,0.43
+ A0TU,Yes,33, Female, Black or African American, Administrative Support Workers,"22,880.00", Data Entry Operator,0,2.00,24.64,Hybrid,Member Care, Full Time,1.00
+ A1BK,Yes,47, Female, Black or African American, Professionals,"23,140.00", Trainer - PT,10,8.67,0.00,Remote,Program Support, Part Time,0.44
+ A12I,Yes,35, Female, Black or African American, Administrative Support Workers,"23,400.00", Customer Care Specialist,13,1.67,2.96,Hybrid,Business Systems, Full Time,0.52
+ A132,Yes,39, Female, Black or African American, Administrative Support Workers,"23,400.00", Customer Care Specialist,13,0.75,25.00,Hybrid,Business Systems, Full Time,0.52
+ A13B,Yes,35, Female, Black or African American, Administrative Support Workers,"23,400.00", Data Administrator,13,4.92,25.00,Hybrid,Member Care, Full Time,0.52
+ A12E,Yes,27, Female, Black or African American, Administrative Support Workers,"23,400.00", Data Entry Operator,0,13.67,8.22,Hybrid,Member Care, Full Time,1.00
+ A12F,Yes,51, Female, Black or African American, Administrative Support Workers,"23,400.00", Data Entry Operator,0,2.75,13.11,Hybrid,Member Care, Full Time,1.00
+ A12G,Yes,55, Female, Black or African American, Administrative Support Workers,"23,400.00", Data Entry Operator,0,0.50,12.94,Hybrid,Member Care, Full Time,1.00
+ A12J,Yes,44, Female, Black or African American, Administrative Support Workers,"23,400.00", Data Entry Operator,0,8.67,19.95,Hybrid,Member Care, Full Time,1.00
+ A135,Yes,54, Female, Unspecified, Administrative Support Workers,"23,400.00", Data Entry Operator,0,0.92,5.18,Hybrid,Member Care, Full Time,1.00
+ A13C,Yes,35, Female, Black or African American, Administrative Support Workers,"23,400.00", Data Entry Operator,0,1.42,10.21,Hybrid,Member Care, Full Time,1.00
+ A13I,Yes,58, Male, Black or African American, Administrative Support Workers,"23,400.00", Data Entry Operator,0,1.00,9.32,Hybrid,Member Care, Full Time,1.00
+ A12W,Yes,71, Female, Black or African American, Administrative Support Workers,"23,400.00", Membership Development Specialist,12,18.33,7.94,Hybrid,Member Care, Full Time,0.45
+ A1BB,Yes,24, Male, White, Service Workers,"23,400.00", Recreation Coordinator,0,11.00,173.74,Hybrid,Outdoor Property - CTR, Full Time,1.00
+ A1LX,No,31, Female, Two or More Races, Sales Workers,"24,102.00", Retail Customer Service Representative - PT,11,0.08,19.70,Hybrid,Badge & Sash, Part Time,0.53
+ A181,Yes,27, Female, Black or African American, Administrative Support Workers,"25,350.00", Data Administrator,13,10.58,8.94,Hybrid,Member Care, Full Time,0.56
+ A0ST,No,48, Female, Black or African American, Professionals,"26,494.00", Trainer - PT,10,25.75,0.00,Remote,Program Support, Part Time,0.51
+ A0ZM,Yes,38, Female, White, Sales Workers,"27,040.00", Inventory Control Specialist,11,5.00,2123.46,Hybrid,Badge & Sash, Full Time,0.59
+ A0Y0,Yes,28, Female, Black or African American, Sales Workers,"27,280.50", Lead Customer Service Representative,13,5.08,0.00,Remote,Badge & Sash, Full Time,0.60
+ A0YD,Yes,32, Female, Black or African American, Administrative Support Workers,"27,300.00", Mailroom and Business Support Associate,13,0.42,14.73,Hybrid,Risk and Facilities, Full Time,0.60
+ A14R,Yes,50, Female, White, Professionals,"28,525.12", Outdoor Program Equestrian Specialist,12,2.00,32.37,Hybrid,Outdoor Education - CMM, Full Time,0.59
+ A0TY,Yes,58, Female, Black or African American, Administrative Support Workers,"29,120.00", Guest Services Specialist,0,1.33,0.00,Remote,Risk and Facilities, Full Time,1.00
+ A127,Yes,59, Female, Black or African American, Administrative Support Workers,"29,250.00", Customer Care Specialist,13,1.50,2.96,Hybrid,Business Systems, Full Time,0.64
+ A0GQ,Yes,50, Male, White, Craft Workers,"29,448.64", Camp Ranger,12,2.25,478.25,Hybrid,Outdoor Property - CMM, Full Time,0.61
+ A0TE,Yes,27, Female, Hispanic or Latino, Administrative Support Workers,"29,556.80", Human Resources Administrator - PT,12,2.42,44.80,Hybrid,HR, Part Time,0.57
+ A0PD,Yes,51, Female, Black or African American, Sales Workers,"29,971.50", Lead Customer Service Representative,11,1.33,0.00,Remote,Badge & Sash, Full Time,0.65
+ A1AV,Yes,30, Female, White, Professionals,"30,000.10", Outdoor Program Equestrian Specialist,12,18.17,169.88,Hybrid,Outdoor Education - CMM, Full Time,0.62
+ A0XH,Yes,32, Female, Black or African American, Administrative Support Workers,"30,160.00", Human Resources Administrator - PT,12,3.00,30.07,Hybrid,HR, Part Time,0.58
+ A11U,Yes,37, Female, Black or African American, Administrative Support Workers,"31,005.00", Customer Care Specialist,13,5.00,9.22,Hybrid,Business Systems, Full Time,0.68
+ A062,Yes,33, Male, White, Laborers and Helpers,"31,031.26", Grounds and Maintenance Specialist,12,4.17,12.50,Hybrid,Outdoor Property - CMM, Full Time,0.64
+ A0FT,Yes,33, Female, White, Professionals,"31,090.28", Outdoor Program Equestrian Specialist,12,7.08,478.25,Hybrid,Outdoor Education - CMM, Full Time,0.64
+ A187,Yes,30, Female, Black or African American, Administrative Support Workers,"31,200.00", Customer Care Specialist,13,5.00,370.67,Hybrid,Business Systems, Full Time,0.69
+ A0WD,Yes,25, Male, White, Laborers and Helpers,"31,200.00", Grounds and Maintenance Specialist,12,3.08,25.49,Hybrid,Outdoor Property - CMW, Full Time,0.60
+ A17F,Yes,36, Male, Two or More Races, Laborers and Helpers,"31,200.00", Grounds and Maintenance Specialist,12,7.67,0.00,Remote,Outdoor Property - CMW, Full Time,0.60
+ A12N,No,26, Female, Black or African American, Administrative Support Workers,"31,200.00", Mailroom and Business Support Associate,13,5.00,5.18,Hybrid,Risk and Facilities, Full Time,0.69
+ A1P0,No,26, Female, Black or African American, Administrative Support Workers,"31,200.00", Member Care Specialist,11,0.08,13.31,Hybrid,Business Systems, Full Time,0.68
+ A1P1,No,24, Female, Black or African American, Administrative Support Workers,"31,200.00", Member Care Specialist,11,0.17,13.64,Hybrid,Business Systems, Full Time,0.68
+ A1FO,Yes,33, Female, Black or African American, Administrative Support Workers,"31,200.00", Member Care Specialist,13,3.08,20.91,Hybrid,Business Systems, Full Time,0.69
+ A13V,Yes,41, Female, White, Laborers and Helpers,"31,200.00", Property  Maintenance Specialist,12,8.42,33.38,Hybrid,Outdoor Property - CTR, Full Time,0.60
+ A19P,Yes,37, Female, Black or African American, Sales Workers,"31,200.00", Retail Experience Lead,11,7.92,18.82,Hybrid,Badge & Sash, Full Time,0.68
+ A113,Yes,51, Male, White, Laborers and Helpers,"31,678.40", Property  Maintenance Specialist,12,27.50,14.14,Hybrid,Outdoor Property - CMM, Full Time,0.61
+ A0TI,Yes,26, Female, Black or African American, Sales Workers,"31,824.00", Lead Customer Service Representative,11,2.92,12.94,Hybrid,Badge & Sash, Full Time,0.69
+ A1GR,Yes,38, Female, Black or African American, Sales Workers,"31,999.50", Inventory Control Specialist,11,20.50,22.24,Hybrid,Badge & Sash, Full Time,0.70
+ A0ZC,Yes,37, Male, White, Laborers and Helpers,"32,136.00", Grounds and Maintenance Specialist,12,4.42,8.53,Hybrid,Outdoor Property - CMW, Full Time,0.62
+ A0IF,Yes,44, Male, Black or African American, Craft Workers,"32,136.00", Property  Maintenance Specialist,12,4.50,0.00,Remote,Outdoor Property - CMM, Full Time,0.62
+ A033,Yes,54, Male, White, Laborers and Helpers,"32,335.68", Camp Ranger,12,2.17,12.75,Hybrid,Outdoor Property - CMW, Full Time,0.67
+ A1JL,No,36, Male, Black or African American, Administrative Support Workers,"32,428.50", Member Care Specialist,11,3.42,19.95,Hybrid,Business Systems, Full Time,0.71
+ A0C7,Yes,58, Female, White, Professionals,"32,500.00", Z - Membership Specialist,0,3.67,0.00,Remote,Membership, Full Time,1.00
+ A0T8,Yes,37, Female, Black or African American, Professionals,"32,500.00", Z - Membership Specialist,0,0.42,0.00,Remote,Membership, Full Time,1.00
+ A0U0,Yes,39, Female, Black or African American, Administrative Support Workers,"32,760.00", Donor Services Coordinator,12,8.17,12.94,Hybrid,Fund Development, Full Time,0.63
+ A1A0,Yes,26, Female, White, Professionals,"32,999.98", Outdoor Program Equestrian Specialist,10,3.75,18.16,Hybrid,Outdoor Education - CMM, Full Time,0.67
+ A0B2,Yes,28, Female, Black or African American, Administrative Support Workers,"33,013.50", Membership Development Specialist,12,19.33,5.61,Hybrid,Member Care, Full Time,0.64
+ A0Q3,Yes,56, Female, Black or African American, Administrative Support Workers,"33,150.00", Customer Care Specialist,13,1.00,27.08,Hybrid,Business Systems, Full Time,0.73
+ A1P2,No,19, Male, White, Laborers and Helpers,"33,150.00", Grounds and Maintenance Specialist,10,3.50,14.75,Hybrid,Outdoor Property - CMW, Full Time,0.63
+ A1M8,No,29, Male, White, Laborers and Helpers,"33,150.00", Grounds and Maintenance Specialist,10,1.08,18.16,Hybrid,Outdoor Property - CMM, Full Time,0.63
+ A1KL,Yes,52, Female, Black or African American, Sales Workers,"33,150.00", Inventory Control Specialist,11,3.00,32.38,Hybrid,Badge & Sash, Full Time,0.72
+ A0ZX,Yes,61, Male, White, Laborers and Helpers,"33,280.00", Property  Maintenance Specialist,12,2.75,30.09,Hybrid,Outdoor Property - CTR, Full Time,0.64
+ A0TK,Yes,40, Female, White, Professionals,"33,495.28", Z - Service Unit Support Specialist,11,0.75,0.00,Remote,Program Support, Full Time,0.78
+ A0KU,Yes,42, Female, Black or African American, Professionals,"33,580.56", Outreach Initiative Specialist,12,2.42,0.00,Remote,Membership, Full Time,0.69
+ A1JM,No,45, Female, Black or African American, Administrative Support Workers,"33,637.50", Member Care Specialist,11,4.00,5.61,Hybrid,Business Systems, Full Time,0.73
+ A0WF,Yes,60, Female, White, Administrative Support Workers,"33,754.50", Member Care Specialist,11,3.67,219.61,Hybrid,Business Systems, Full Time,0.74
+ A17O,Yes,52, Female, Black or African American, First/Mid-Level Officials and Managers,"33,800.00", Communications Manager ,8,5.67,19.70,Hybrid,Marketing, Part Time,0.49
+ A054,Yes,39, Female, Black or African American, Professionals,"33,948.72", Membership Development Specialist,12,9.08,28.36,Hybrid,Member Care, Full Time,0.70
+ A18S,Yes,28, Male, White, Laborers and Helpers,"33,988.50", Grounds and Maintenance Specialist,10,4.50,25.37,Hybrid,Outdoor Property - CMW, Full Time,0.65
+ A0WC,Yes,41, Female, Black or African American, Professionals,"33,990.32", Community Engagement Specialist,12,1.50,0.00,Remote,Membership, Full Time,0.70
+ A05J,Yes,33, Female, Black or African American, Professionals,"34,000.20", Z - Girl Leadership Specialist,0,6.92,24.73,Hybrid,Program Support, Full Time,1.00
+ A01C,Yes,35, Female, White, Service Workers,"34,136.44", Outdoor Program Equestrian Specialist,12,8.50,1982.68,Hybrid,Outdoor Education - CMW, Full Time,0.70
+ A0C3,Yes,47, Male, White, Laborers and Helpers,"34,136.96", Camp Ranger,12,7.92,0.00,Remote,Outdoor Property - CMM, Full Time,0.70
+ A1FQ,Yes,30, Female, Unspecified, Professionals,"34,253.96", Assistant Camp Director,10,2.58,0.00,Remote,Outdoor Education - CMW, Full Time,0.70
+ A0OW,Yes,70, Female, Black or African American, Sales Workers,"34,278.40", Lead Customer Service Representative,13,1.33,0.00,Remote,Badge & Sash, Full Time,0.76
+ A1LW,No,25, Female, Black or African American, Sales Workers,"34,320.00", Retail Experience Lead,11,2.67,7.32,Hybrid,Badge & Sash, Full Time,0.75
+ A1KT,No,23, Male, White, Laborers and Helpers,"34,339.50", Grounds and Maintenance Specialist,10,5.00,8.28,Hybrid,Outdoor Property - CTR, Full Time,0.66
+ A09Q,Yes,40, Male, White, Laborers and Helpers,"34,441.16", Camp Ranger,12,2.00,0.00,Remote,Outdoor Property - CMM, Full Time,0.71
+ A0H8,Yes,31, Female, White, Professionals,"34,500.18", K-5 Specialist,12,16.25,7.94,Hybrid,Program Support, Full Time,0.71
+ A0FJ,Yes,44, Female, White, Professionals,"34,707.66", Community Engagement Specialist,12,0.00,0.00,Remote,Membership, Full Time,0.71
+ A0H6,Yes,52, Male, White, Laborers and Helpers,"34,806.20", Camp Ranger,12,7.00,10.21,Hybrid,Outdoor Property - CTR, Full Time,0.72
+ A1A6,Yes,31, Female, Black or African American, Administrative Support Workers,"34,827.00", Member Care Specialist,11,1.75,0.00,Remote,Business Systems, Full Time,0.76
+ A11V,No,58, Female, Black or African American, Administrative Support Workers,"34,963.50", Member Care Specialist,11,9.17,8.28,Hybrid,Business Systems, Full Time,0.76
+ A18E,Yes,31, Female, White, Professionals,"35,000.16", Assistant Camp Director,12,0.33,50.43,Hybrid,Outdoor Education - CMW, Full Time,0.72
+ A1A3,Yes,26, Female, Black or African American, Professionals,"35,000.16", Assistant Camp Director,10,0.25,36.85,Hybrid,Outdoor Education - CMW, Full Time,0.71
+ A18Q,No,24, Female, White, Professionals,"35,000.16", Assistant Camp Director,12,0.17,455.21,Hybrid,Outdoor Education - CMM, Full Time,0.72
+ A191,Yes,57, Female, White, Professionals,"35,000.16", Assistant Camp Director,12,1.75,13.45,Hybrid,Outdoor Education - CMM, Full Time,0.72
+ A1NS,Yes,38, Female, White, Professionals,"35,000.16", Assistant Camp Director,10,2.33,913.24,Hybrid,Outdoor Education - CMM, Full Time,0.71
+ A1K4,Yes,52, Male, Unspecified, Laborers and Helpers,"35,002.50", Grounds and Maintenance Specialist,10,7.00,27.53,Hybrid,Outdoor Property - CMM, Full Time,0.67
+ A13E,Yes,29, Female, Black or African American, Administrative Support Workers,"35,002.50", Membership Development Specialist,12,5.42,26.02,Hybrid,Member Care, Full Time,0.68
+ A17Z,Yes,30, Female, Black or African American, Administrative Support Workers,"35,080.50", Member Care Specialist,11,1.92,3.80,Hybrid,Business Systems, Full Time,0.76
+ A1GC,Yes,43, Female, Black or African American, Administrative Support Workers,"35,119.50", Administrative Assistant- Program Support,10,0.92,21.46,Hybrid,Outdoor Program, Full Time,0.67
+ A0FR,Yes,66, Female, Black or African American, Administrative Support Workers,"35,158.50", Customer Care Specialist,13,2.42,22.24,Hybrid,Business Systems, Full Time,0.78
+ A0RF,Yes,44, Female, White, Professionals,"35,179.82", Z - Membership Specialist,0,7.92,0.00,Remote,Membership, Full Time,1.00
+ A1GG,Yes,63, Male, Unspecified, Laborers and Helpers,"35,193.60", Grounds and Maintenance Specialist,10,5.42,0.00,Remote,Outdoor Property - CTR, Full Time,0.67
+ A1KB,No,52, Female, White, Professionals,"35,197.50", K-5 Program Support Specialist,10,0.58,37.31,Hybrid,Program Support, Full Time,0.67
+ A045,Yes,44, Female, White, Professionals,"35,574.50", Membership Development Specialist,12,6.42,16.53,Hybrid,Member Care, Full Time,0.73
+ A109,Yes,53, Female, Black or African American, Administrative Support Workers,"35,685.00", High Award Coordinator,10,6.17,17.14,Hybrid,Program Support, Part Time,0.68
+ A0QK,No,29, Female, White, Professionals,"36,000.00", Equestrian Specialist,10,1.83,35.64,Hybrid,Outdoor Education - CMM, Full Time,0.73
+ A107,Yes,57, Female, White, Professionals,"36,000.12", Area Executive,12,0.00,0.00,Remote,Membership, Full Time,0.74
+ A10D,Yes,30, Female, Black or African American, Professionals,"36,000.12", Area Executive,12,0.25,0.00,Remote,Membership, Full Time,0.74
+ A10E,Yes,34, Female, Black or African American, Professionals,"36,000.12", Area Executive,12,0.00,0.00,Remote,Membership, Full Time,0.74
+ A0OF,Yes,26, Female, White, Professionals,"36,000.12", Community Engagement Specialist,12,0.83,0.00,Remote,Membership, Full Time,0.74
+ A11D,No,49, Female, Unspecified, Professionals,"36,000.12", Community Engagement Specialist,12,13.92,0.00,Remote,Membership, Full Time,0.74
+ A13N,Yes,31, Female, Black or African American, Sales Workers,"36,000.12", Community Engagement Specialist,12,0.25,0.00,Remote,Membership, Full Time,0.74
+ A13O,No,25, Female, Black or African American, Professionals,"36,000.12", Community Engagement Specialist,12,2.33,0.00,Remote,Membership, Full Time,0.74
+ A17S,Yes,29, Female, Black or African American, Sales Workers,"36,000.12", Community Engagement Specialist,12,5.17,0.00,Remote,Membership, Full Time,0.74
+ A18U,Yes,48, Female, White, Sales Workers,"36,000.12", Community Engagement Specialist,12,13.58,0.00,Remote,Membership, Full Time,0.74
+ A03M,Yes,32, Female, Black or African American, Professionals,"36,000.12", Community Outreach Specialist,12,0.83,0.00,Remote,Member Care, Full Time,0.74
+ A18Y,Yes,29, Female, Black or African American, Professionals,"36,000.12", Outreach Program Specialist,12,0.42,0.00,Remote,Membership, Full Time,0.74
+ A124,Yes,30, Female, Asian, Administrative Support Workers,"36,016.50", Lead Data Administrator,12,0.42,7.43,Hybrid,Business Systems, Full Time,0.69
+ A0NP,Yes,43, Female, White, Professionals,"36,016.50", Older Girl Specialist,12,5.83,30.09,Hybrid,Program Support, Full Time,0.69
+ A0YC,Yes,36, Female, Hispanic or Latino, Administrative Support Workers,"36,036.00", Administrative Assistant,12,0.08,18.93,Hybrid,Mission Delivery, Full Time,0.70
+ A0Z1,Yes,33, Female, Black or African American, Administrative Support Workers,"36,153.00", Accounting Clerk,12,0.42,6.73,Hybrid,Finance, Full Time,0.70
+ A025,Yes,31, Female, Black or African American, Administrative Support Workers,"36,289.50", Customer Care Specialist,13,9.08,8.28,Hybrid,Business Systems, Full Time,0.80
+ A0S3,Yes,68, Female, White, Professionals,"36,316.80", Outreach Initiative Specialist,12,3.58,0.00,Remote,Membership, Full Time,0.70
+ A10F,Yes,31, Female, Black or African American, Sales Workers,"36,360.22", Area Executive,12,0.00,0.00,Remote,Membership, Full Time,0.75
+ A0D0,Yes,59, Female, Black or African American, Professionals,"36,410.92", Community Engagement Specialist,12,0.25,0.00,Remote,Membership, Full Time,0.75
+ A09W,Yes,38, Female, Hispanic or Latino, Professionals,"36,463.96", Outreach Initiative Specialist,12,3.58,0.00,Remote,Membership, Full Time,0.75
+ A1F7,Yes,29, Female, White, Professionals,"36,505.30", Assistant Camp Director,10,2.08,47.73,Hybrid,Outdoor Education - CMM, Full Time,0.75
+ A108,Yes,27, Female, Black or African American, Sales Workers,"36,540.14", Area Executive,12,0.00,0.00,Remote,Membership, Full Time,0.75
+ A07G,Yes,59, Female, White, Professionals,"36,624.38", Community Engagement Specialist,12,4.08,0.00,Remote,Membership, Full Time,0.75
+ A0Y3,Yes,33, Female, Hispanic or Latino, Sales Workers,"36,720.06", Community Outreach Specialist,12,0.92,0.00,Remote,Member Care, Full Time,0.76
+ A02H,Yes,66, Female, White, Administrative Support Workers,"36,777.00", Camp Operations Coordinator,11,2.17,12.94,Hybrid,Outdoor Program, Full Time,0.80
+ A1CZ,Yes,36, Female, Two or More Races, Administrative Support Workers,"36,835.50", Volunteer Support Coordinator,11,3.08,28.36,Hybrid,Membership, Full Time,0.80
+ A1FJ,Yes,30, Female, Black or African American, Professionals,"37,000.08", Outreach Program Specialist,10,0.00,0.00,Remote,Membership, Full Time,0.76
+ A17W,No,27, Female, Black or African American, Professionals,"37,050.00", Community Outreach & Program Specialist,10,0.42,0.00,Remote,Member Care, Full Time,0.71
+ A03A,Yes,72, Female, Black or African American, Sales Workers,"37,050.00", Lead Customer Service Representative,13,6.00,11.67,Hybrid,Badge & Sash, Full Time,0.82
+ A1F5,Yes,57, Female, Black or African American, Administrative Support Workers,"37,050.00", Risk and Business Ops Specialist,12,2.83,21.54,Hybrid,Risk and Facilities, Full Time,0.71
+ A0XM,Yes,28, Female, Black or African American, Sales Workers,"37,080.16", Area Executive,12,0.00,0.00,Remote,Membership, Full Time,0.76
+ A0TT,Yes,49, Female, White, Sales Workers,"37,080.16", Community Engagement Specialist,12,2.50,0.00,Remote,Membership, Full Time,0.76
+ A18P,Yes,53, Female, Unspecified, Sales Workers,"37,080.16", Community Engagement Specialist,12,4.25,0.00,Remote,Membership, Full Time,0.76
+ A138,Yes,28, Female, White, Sales Workers,"37,260.08", Community Engagement Specialist,12,3.25,0.00,Remote,Membership, Full Time,0.77
+ A0T7,No,25, Female, Hispanic or Latino, Sales Workers,"37,260.08", Community Outreach Specialist,10,5.25,0.00,Remote,Member Care, Full Time,0.76
+ A175,Yes,48, Male, White, Laborers and Helpers,"37,440.00", Camp Ranger,10,18.58,13.41,Hybrid,Outdoor Property - CTR, Full Time,0.76
+ A0IO,Yes,46, Female, Hispanic or Latino, Sales Workers,"37,440.00", Community Engagement Specialist,12,2.25,0.00,Remote,Membership, Full Time,0.77
+ A13T,Yes,46, Female, Two or More Races, Administrative Support Workers,"37,440.00", Mailroom and Business Support Associate,13,6.67,3.16,Hybrid,Risk and Facilities, Full Time,0.83
+ A0SZ,Yes,41, Female, White, Professionals,"37,484.46", Z - Membership Specialist,0,12.50,0.00,Remote,Membership, Full Time,1.00
+ A03N,No,31, Female, White, Administrative Support Workers,"37,908.00", Camp Operations Coordinator,10,0.75,5.18,Hybrid,Outdoor Program, Full Time,0.73
+ A0J6,No,33, Female, White, Professionals,"38,000.00", Assistant Camp Director,10,0.25,0.00,Remote,Outdoor Education - CTR, Full Time,0.78
+ A1GN,No,22, Female, White, Professionals,"38,000.00", Assistant Camp Director,10,0.83,57.20,Hybrid,Outdoor Education - CMW, Full Time,0.78
+ A1OK,No,29, Female, White, Professionals,"38,000.00", Assistant Camp Director,10,5.50,20.28,Hybrid,Outdoor Education - CMW, Full Time,0.78
+ A0FQ,No,27, Female, White, Professionals,"38,000.00", Equestrian Specialist,10,9.42,0.00,Remote,Outdoor Education - CMW, Full Time,0.78
+ A1JB,Yes,28, Female, Hispanic or Latino, Sales Workers,"38,000.04", Area Executive,9,0.50,0.00,Remote,Membership, Full Time,0.68
+ A1JZ,Yes,27, Female, Black or African American, Sales Workers,"38,000.04", Area Executive,9,0.08,0.00,Remote,Membership, Full Time,0.68
+ A1KU,Yes,28, Female, Hispanic or Latino, Sales Workers,"38,000.04", Area Executive,9,0.67,0.00,Remote,Membership, Full Time,0.68
+ A1KW,No,38, Female, Black or African American, Sales Workers,"38,000.04", Area Executive,9,10.17,0.00,Remote,Membership, Full Time,0.68
+ A1LB,Yes,28, Female, White, Sales Workers,"38,000.04", Area Executive,9,0.42,0.00,Remote,Membership, Full Time,0.68
+ A1M4,No,40, Female, Black or African American, Sales Workers,"38,000.04", Area Executive,9,3.50,0.00,Remote,Membership, Full Time,0.68
+ A1MP,No,50, Female, White, Sales Workers,"38,000.04", Area Executive,9,0.42,0.00,Remote,Membership, Full Time,0.68
+ A1OQ,No,55, Female, White, Sales Workers,"38,000.04", Area Executive,9,1.00,0.00,Remote,Membership, Full Time,0.68
+ A1CT,No,22, Female, Black or African American, Professionals,"38,000.04", Leadership Development Specialist,9,8.17,8.22,Hybrid,Program Support, Full Time,0.68
+ A0TG,Yes,32, Female, Black or African American, Administrative Support Workers,"38,001.60", Accounting Clerk,12,2.83,13.28,Hybrid,Finance, Full Time,0.73
+ A1F3,Yes,34, Female, Black or African American, Administrative Support Workers,"38,005.50", Camp Operations Coordinator,9,3.83,8.28,Hybrid,Outdoor Program, Full Time,0.64
+ A195,Yes,31, Female, Asian, Administrative Support Workers,"38,025.00", New Leader & Volunteer Training Specialist,10,2.75,33.78,Hybrid,Program Support, Full Time,0.73
+ A0RK,Yes,53, Male, White, Laborers and Helpers,"38,141.22", Camp Ranger,10,3.92,35.49,Hybrid,Outdoor Property - CMM, Full Time,0.78
+ A18F,No,36, Female, White, Professionals,"38,165.40", Assistant Camp Director,10,0.25,18.52,Hybrid,Outdoor Education - CTR, Full Time,0.78
+ A0XC,Yes,50, Female, Black or African American, Administrative Support Workers,"38,278.50", Lead Data Administrator,12,0.92,12.54,Hybrid,Business Systems, Full Time,0.74
+ A123,Yes,27, Female, White, Sales Workers,"38,393.42", Area Executive,9,0.00,0.00,Remote,Membership, Full Time,0.69
+ A0L7,Yes,57, Female, White, Professionals,"38,551.24", Volunteer Support Specialist,11,5.92,43.38,Hybrid,Membership, Full Time,0.90
+ A1GP,Yes,24, Female, White, Sales Workers,"38,722.06", Area Executive,9,0.25,0.00,Remote,Membership, Full Time,0.69
+ A0K7,No,41, Female, Black or African American, Sales Workers,"38,835.94", Area Executive,9,2.92,0.00,Remote,Membership, Full Time,0.69
+ A12R,Yes,29, Female, Two or More Races, Administrative Support Workers,"39,000.00", Risk and Business Ops Specialist,12,26.92,285.51,Hybrid,Risk and Facilities, Full Time,0.75
+ A1LF,No,27, Female, White, Administrative Support Workers,"39,136.50", High Awards Leadership Coordinator,10,2.33,12.21,Hybrid,Program Support, Full Time,0.75
+ A0TH,No,26, Female, Hispanic or Latino, Sales Workers,"39,140.14", Area Executive,9,2.00,0.00,Remote,Membership, Full Time,0.70
+ A1LK,Yes,41, Female, Black or African American, Sales Workers,"39,140.14", Area Executive,9,2.33,0.00,Remote,Membership, Full Time,0.70
+ A1LR,No,51, Female, White, Sales Workers,"39,140.14", Area Executive,9,1.75,0.00,Remote,Membership, Full Time,0.70
+ A1M5,No,23, Female, Black or African American, Sales Workers,"39,140.14", Area Executive,9,0.25,0.00,Remote,Membership, Full Time,0.70
+ A1LM,No,36, Female, White, Professionals,"39,140.14", Assistant Camp Director,10,3.92,52.38,Hybrid,Outdoor Education - CMM, Full Time,0.80
+ A01J,No,26, Female, Hispanic or Latino, Sales Workers,"39,140.14", Community Outreach Specialist,10,5.67,0.00,Remote,Member Care, Full Time,0.80
+ A1LE,No,28, Female, Black or African American, Sales Workers,"39,140.14", Community Outreach Specialist,10,6.08,0.00,Remote,Member Care, Full Time,0.80
+ A12H,No,35, Female, Black or African American, Administrative Support Workers,"39,234.00", Product Programs Coordinator,11,0.50,12.94,Hybrid,Product Programs, Full Time,0.86
+ A0LK,Yes,33, Female, Black or African American, Administrative Support Workers,"39,312.00", Administrative Assistant,12,2.08,23.14,Hybrid,Mission Delivery, Full Time,0.76
+ A1FR,No,25, Female, Black or African American, Administrative Support Workers,"39,312.00", Risk and Business Ops Specialist,10,10.75,20.70,Hybrid,Risk and Facilities, Full Time,0.75
+ A17U,No,24, Female, Hispanic or Latino, Sales Workers,"39,329.94", Community Outreach Specialist,10,1.08,0.00,Remote,Member Care, Full Time,0.80
+ A03E,No,25, Female, American Indian or Alaska Native, Administrative Support Workers,"39,331.50", Juliette Coordinator,10,12.50,31.29,Hybrid,Program Support, Full Time,0.75
+ A17K,No,48, Female, Black or African American, Administrative Support Workers,"39,331.50", Lead Data Administrator,10,7.50,3.16,Hybrid,Business Systems, Full Time,0.75
+ A12Q,Yes,48, Female, Black or African American, Sales Workers,"39,334.36", Community Outreach Specialist,10,5.08,0.00,Remote,Member Care, Full Time,0.80
+ A13M,Yes,27, Female, Two or More Races, Sales Workers,"39,417.30", Area Executive,9,0.00,0.00,Remote,Membership, Full Time,0.70
+ A00C,Yes,30, Female, Black or African American, Sales Workers,"39,497.12", Area Executive,9,0.42,0.00,Remote,Membership, Full Time,0.71
+ A1LQ,No,57, Female, Black or African American, Administrative Support Workers,"39,526.50", Administrative Assistant- Program Support,10,0.33,3.80,Hybrid,Program Support, Full Time,0.76
+ A0Y1,Yes,41, Female, Hispanic or Latino, Sales Workers,"39,529.36", Community Outreach Specialist,10,0.00,0.00,Remote,Member Care, Full Time,0.81
+ A18J,Yes,30, Female, White, First/Mid-Level Officials and Managers,"39,551.72", Camp Director,8,0.58,44.32,Hybrid,Outdoor Education - CMW, Full Time,0.61
+ A09N,Yes,31, Female, White, Sales Workers,"39,720.46", Area Executive,9,0.17,0.00,Remote,Membership, Full Time,0.71
+ A1K8,No,49, Female, Unspecified, Sales Workers,"39,751.92", Area Executive,9,4.58,0.00,Remote,Membership, Full Time,0.71
+ A1JX,No,46, Female, Black or African American, Sales Workers,"39,968.50", Area Executive,9,0.67,0.00,Remote,Membership, Full Time,0.71
+ A1JR,Yes,35, Female, Black or African American, Sales Workers,"40,093.82", Area Executive,9,1.00,0.00,Remote,Membership, Full Time,0.72
+ A1G7,No,41, Female, Black or African American, Sales Workers,"40,157.78", Area Executive,9,1.00,0.00,Remote,Membership, Full Time,0.72
+ A17Q,Yes,58, Female, Black or African American, Sales Workers,"40,168.96", Community Outreach Specialist,10,0.67,0.00,Remote,Member Care, Full Time,0.82
+ A0TZ,Yes,36, Female, Black or African American, Administrative Support Workers,"40,170.00", Risk and Business Ops Specialist,12,18.25,13.25,Hybrid,Risk and Facilities, Full Time,0.77
+ A0BB,Yes,53, Female, Black or African American, Professionals,"40,214.98", Volunteer Support Specialist,11,1.58,40.78,Hybrid,Membership, Full Time,0.94
+ A1GE,No,26, Female, Hispanic or Latino, Sales Workers,"40,274.00", Area Executive,9,0.17,0.00,Remote,Membership, Full Time,0.72
+ A12A,Yes,33, Female, White, Professionals,"40,287.00", STEM Specialist,10,7.42,13.25,Hybrid,Program Support, Full Time,0.77
+ A140,Yes,36, Female, Asian, Sales Workers,"40,509.82", Area Executive,9,0.08,0.00,Remote,Membership, Full Time,0.72
+ A0D5,No,53, Female, Black or African American, Administrative Support Workers,"40,579.50", Data Administrator,11,0.33,19.70,Hybrid,Business Systems, Full Time,0.88
+ A1FX,Yes,29, Female, Black or African American, Sales Workers,"40,667.12", Area Executive,9,0.17,0.00,Remote,Membership, Full Time,0.73
+ A1FI,No,32, Female, Black or African American, Sales Workers,"40,863.94", Area Executive,9,1.08,0.00,Remote,Membership, Full Time,0.73
+ A0IK,No,57, Female, White, Laborers and Helpers,"41,000.00", Camp Ranger,10,2.42,26.92,Hybrid,Outdoor Property - CTR, Full Time,0.84
+ A02R,No,38, Male, White, Laborers and Helpers,"41,000.00", Camp Ranger,10,1.00,0.00,Remote,Outdoor Property - CMW, Full Time,0.84
+ A0MV,No,53, Female, White, Sales Workers,"41,523.04", Area Executive,9,17.83,0.00,Remote,Membership, Full Time,0.74
+ A0E7,Yes,41, Female, White, Sales Workers,"41,865.72", Area Executive,9,6.17,0.00,Remote,Membership, Full Time,0.75
+ A1M7,No,27, Female, White, Professionals,"42,000.00", Assistant Camp Director,10,2.58,46.82,Hybrid,Outdoor Education - CMM, Full Time,0.86
+ A1J3,Yes,41, Female, White, Sales Workers,"42,000.14", Area Executive,9,3.17,0.00,Remote,Membership, Full Time,0.75
+ A0CJ,No,50, Female, Black or African American, Professionals,"42,510.00", Product Programs Data Specialist,11,2.17,12.63,Hybrid,Product Programs, Full Time,0.93
+ A0JC,Yes,40, Female, White, First/Mid-Level Officials and Managers,"42,755.70", Camp Director,8,6.17,42.52,Hybrid,Outdoor Education - CMM, Full Time,0.66
+ A1GF,No,43, Female, White, Sales Workers,"42,856.16", Area Executive,9,9.42,0.00,Remote,Membership, Full Time,0.77
+ A01G,Yes,53, Female, Hispanic or Latino, Professionals,"42,908.58", Community Outreach Specialist,0,6.25,0.00,Remote,Member Care, Full Time,1.00
+ A1LJ,No,50, Female, White, Sales Workers,"43,260.10", Area Executive,9,0.67,0.00,Remote,Membership, Full Time,0.77
+ A18T,Yes,35, Female, White, Sales Workers,"43,470.18", Area Executive,10,5.42,0.00,Remote,Membership, Full Time,0.89
+ A12U,Yes,39, Female, Black or African American, Administrative Support Workers,"43,485.00", Administrative Assistant,10,5.92,33.59,Hybrid,Mission Delivery, Full Time,0.83
+ A1LA,Yes,34, Female, Black or African American, Professionals,"43,500.08", Leadership Development Specialist,9,10.17,11.70,Hybrid,Program Support, Full Time,0.78
+ A11E,Yes,41, Female, Black or African American, Professionals,"43,504.50", Membership Service Coordinator,11,10.92,23.92,Hybrid,Membership, Full Time,0.95
+ A0EW,Yes,47, Female, Black or African American, Professionals,"44,000.06", Senior Community Engagement Specialist,11,0.17,0.00,Remote,Membership, Full Time,1.02
+ A01A,Yes,42, Female, White, First/Mid-Level Officials and Managers,"44,195.58", Camp Director,8,9.58,0.00,Remote,Outdoor Education - CMM, Full Time,0.68
+ A09M,Yes,39, Female, Black or African American, Sales Workers,"44,558.02", Area Executive,9,0.00,0.00,Remote,Membership, Full Time,0.80
+ A08A,Yes,51, Female, White, First/Mid-Level Officials and Managers,"44,616.52", Camp Director,8,0.50,32.52,Hybrid,Outdoor Education - CMW, Full Time,0.69
+ A08Q,Yes,55, Female, Hispanic or Latino, First/Mid-Level Officials and Managers,"45,000.02", Senior Hispanic Engagement Specialist,11,3.33,13.28,Hybrid,Membership, Full Time,1.05
+ A0XG,Yes,37, Female, Two or More Races, Professionals,"45,000.02", STEM Specialist,10,0.08,220.91,Hybrid,Program Support, Full Time,0.92
+ A193,Yes,62, Female, Unspecified, Professionals,"45,006.00", Accounting Specialist,10,3.75,0.00,Hybrid,Finance, Full Time,0.86
+ A1OR,No,44, Female, Black or African American, Professionals,"45,006.00", HR Specialist,9,2.50,8.28,Hybrid,HR, Full Time,0.75
+ A13Z,No,48, Female, Two or More Races, Administrative Support Workers,"45,201.00", Membership Recruitment Coordinator,9,1.42,19.95,Hybrid,Membership, Full Time,0.76
+ A0GH,Yes,61, Female, White, Professionals,"45,540.04", Senior Community Engagement Specialist,11,6.08,0.00,Remote,Membership, Full Time,1.06
+ A1DL,No,48, Male, White, Laborers and Helpers,"46,000.00", Camp Ranger,10,7.83,0.00,Remote,Outdoor Property - CMM, Full Time,0.94
+ A0TD,Yes,32, Female, White, Administrative Support Workers,"46,000.24", Donor Service Manager,7,2.75,16.06,Hybrid,Fund Development, Full Time,0.61
+ A0YE,Yes,30, Female, Black or African American, Professionals,"46,351.50", IT Support Specialist,9,3.17,14.80,Hybrid,IT, Full Time,0.78
+ A0YW,Yes,59, Female, White, Administrative Support Workers,"46,800.00", External Volunteer Coordinator - PT,12,7.42,13.41,Hybrid,Member Care, Part Time,0.90
+ A1FA,Yes,30, Female, White, First/Mid-Level Officials and Managers,"46,889.96", Interim Camp Director,8,1.75,140.37,Hybrid,Outdoor Education - CMM, Full Time,0.72
+ A0QA,Yes,45, Female, Black or African American, First/Mid-Level Officials and Managers,"47,509.28", Outreach Manager,9,1.92,33.59,Hybrid,Membership, Full Time,0.85
+ A0UM,No,62, Female, Black or African American, Sales Workers,"47,762.26", Area Executive,9,0.00,0.00,Remote,Membership, Full Time,0.85
+ A0T6,Yes,38, Female, White, Professionals,"48,000.16", Corporate and Individual Giving Manager,10,1.25,9.22,Hybrid,Fund Development, Full Time,0.98
+ A0YU,Yes,34, Female, Black or African American, Professionals,"48,223.50", Grant Coordinator,11,1.42,13.77,Hybrid,Fund Development, Full Time,1.05
+ A0PN,No,53, Male, White, Craft Workers,"48,262.50", Maintenance Specialist,10,3.42,49.02,Hybrid,Risk and Facilities, Full Time,0.92
+ A0N3,Yes,43, Female, Black or African American, Sales Workers,"48,925.24", Community Engagement Manager,10,0.33,0.00,Remote,Membership, Full Time,1.00
+ A0QU,No,50, Male, Black or African American, Administrative Support Workers,"49,393.50", Learning Management System Specialist,10,0.92,17.70,Hybrid,Program Support, Full Time,0.94
+ A0XA,Yes,47, Female, White, Sales Workers,"49,400.26", Community Engagement Manager,10,1.33,0.00,Remote,Membership, Full Time,1.01
+ A1KN,Yes,51, Female, Black or African American, Professionals,"49,500.10", Grant and Foundations Specialist,9,1.17,6.28,Hybrid,Fund Development, Full Time,0.88
+ A1D9,No,59, Female, White, First/Mid-Level Officials and Managers,"50,000.00", Training Manager,8,8.42,9.22,Hybrid,Program Support, Full Time,0.77
+ A083,Yes,43, Female, Black or African American, Professionals,"50,000.08", Curriculum and Resource Design Specialist,10,4.58,35.52,Hybrid,Program Support, Full Time,1.02
+ A1P8,No,31, Female, White, Professionals,"50,000.08", Grant and Foundations Specialist,9,8.42,28.57,Hybrid,Fund Development, Full Time,0.89
+ A0XJ,Yes,37, Female, Hispanic or Latino, First/Mid-Level Officials and Managers,"50,000.08", Marketing Manager and Business Partner,9,7.00,3.16,Hybrid,Marketing, Full Time,0.89
+ A0YV,Yes,35, Female, Two or More Races, Administrative Support Workers,"50,134.50", Fund Development Coordinator,9,0.92,16.41,Hybrid,Fund Development, Full Time,0.84
+ A10Z,Yes,46, Female, White, First/Mid-Level Officials and Managers,"50,305.32", Annual Fund and Individual Gifts Manager,7,3.58,15.94,Hybrid,Fund Development, Full Time,0.66
+ A066,Yes,36, Female, Hispanic or Latino, First/Mid-Level Officials and Managers,"50,635.00"," Z - Volunteer Support, Recognition and Resolution Mgr",0,0.17,0.00,Remote,Program Support, Full Time,1.00
+ A0D1,No,42, Female, Black or African American, First/Mid-Level Officials and Managers,"50,637.60", Human Resources Manager - PT,5,8.25,7.32,Hybrid,HR, Full Time,0.48
+ A0A2,Yes,67, Female, White, Sales Workers,"50,731.98", Area Executive,9,0.42,0.00,Remote,Membership, Full Time,0.91
+ A12V,No,48, Female, Black or African American, Professionals,"50,752.00", Benefits Specialist,8,2.50,12.94,Hybrid,HR, Full Time,0.78
+ A09P,Yes,43, Female, White, First/Mid-Level Officials and Managers,"50,850.80", Camp Director,7,0.25,12.54,Hybrid,Outdoor Education - CTR, Full Time,0.67
+ A0XI,Yes,35, Female, White, First/Mid-Level Officials and Managers,"51,000.04", Annual Fund and Individual Gifts Manager,7,3.08,11.70,Hybrid,Fund Development, Full Time,0.67
+ A0K9,No,35, Female, Hispanic or Latino, First/Mid-Level Officials and Managers,"51,170.34", Community Outreach Manager,7,0.25,0.00,Remote,Member Care, Full Time,0.67
+ A1I0,No,31, Female, American Indian or Alaska Native, First/Mid-Level Officials and Managers,"51,500.02", Leadership Development Manager,8,13.67,2.96,Hybrid,Program Support, Full Time,0.79
+ A0ZV,No,34, Female, Black or African American, First/Mid-Level Officials and Managers,"51,750.00", Community Volunteer Programs Manager,7,3.17,28.76,Hybrid,Program Support, Full Time,0.68
+ A1CR,Yes,28, Female, Asian, First/Mid-Level Officials and Managers,"52,000.00", Outcome Measurement Manager,7,1.67,26.02,Hybrid,Mission Delivery, Full Time,0.68
+ A1DX,Yes,35, Female, White, First/Mid-Level Officials and Managers,"52,000.00", Outcome Measurement Manager,7,22.67,13.25,Hybrid,Program Support, Full Time,0.68
+ A0C8,Yes,34, Female, White, First/Mid-Level Officials and Managers,"52,272.74", Annual Fund and Individual Gifts Manager,7,0.00,12.21,Hybrid,Fund Development, Full Time,0.69
+ A1F8,Yes,50, Female, Black or African American, First/Mid-Level Officials and Managers,"52,500.24", STEM Manager,7,27.92,27.08,Hybrid,Program Support, Full Time,0.69
+ A0S4,No,47, Female, Black or African American, Sales Workers,"52,736.06", Area Executive,9,0.08,0.00,Remote,Membership, Full Time,0.94
+ A0T4,Yes,66, Female, White, Professionals,"53,430.00", Benefits Specialist,8,3.83,12.94,Hybrid,HR, Full Time,0.82
+ A0TC,Yes,59, Female, Black or African American, Professionals,"53,488.50", Accountant 1,9,5.92,11.67,Hybrid,Finance, Full Time,0.90
+ A192,Yes,70, Female, White, First/Mid-Level Officials and Managers,"53,560.00", Training Manager,7,30.83,0.00,Remote,Program Support, Full Time,0.70
+ A1AF,No,47, Female, Hispanic or Latino, Professionals,"54,080.00", Product Program Logistics Manager,8,1.25,12.24,Hybrid,Product Programs, Full Time,0.83
+ A0RU,Yes,66, Female, White, Professionals,"54,119.52", Product Program Logistics Coordinator,10,0.25,51.60,Hybrid,Product Programs, Full Time,1.10
+ A1CX,No,27, Female, White, First/Mid-Level Officials and Managers,"54,288.26", Annual Giving Manager,7,0.00,5.18,Hybrid,Fund Development, Full Time,0.71
+ A0MR,Yes,35, Female, White, First/Mid-Level Officials and Managers,"54,363.40", Marketing Manager and Business Partner,9,1.67,13.28,Hybrid,Marketing, Full Time,0.97
+ A1CQ,No,44, Male, White, Professionals,"54,366.00", IT Support Specialist,7,10.67,19.64,Hybrid,IT, Full Time,0.67
+ A1L4,No,34, Female, Unspecified, First/Mid-Level Officials and Managers,"54,600.26", STEM Manager,7,1.75,13.41,Hybrid,Program Support, Full Time,0.72
+ A1OS,No,28, Female, Black or African American, First/Mid-Level Officials and Managers,"55,000.00", Major Gifts and Planned Giving Manager,7,0.17,3.16,Hybrid,Fund Development, Full Time,0.72
+ A1PE,No,26, Male, Unspecified, Professionals,"55,000.14", Business Analyst,7,6.17,13.64,Hybrid,Business Systems, Full Time,0.72
+ A1LO,Yes,27, Female, White, First/Mid-Level Officials and Managers,"55,000.14", Camp Director,7,1.92,59.50,Hybrid,Outdoor Education - CMM, Full Time,0.72
+ A14H,Yes,35, Male, White, First/Mid-Level Officials and Managers,"55,417.70", Marketing Manager and Business Partner,9,15.58,15.94,Hybrid,Marketing, Full Time,0.99
+ A1K2,No,29, Female, White, First/Mid-Level Officials and Managers,"55,426.80", Outcome Measurement Manager,7,1.08,14.73,Hybrid,Mission Delivery, Full Time,0.73
+ A1GH,Yes,27, Female, Black or African American, First/Mid-Level Officials and Managers,"55,773.12", Major Gifts and Planned Giving Manager,7,1.58,8.72,Hybrid,Fund Development, Full Time,0.73
+ A1CK,Yes,37, Female, Black or African American, Professionals,"55,825.12", Human Resources Generalist,9,3.50,0.00,Remote,HR, Full Time,1.00
+ A131,Yes,35, Female, Black or African American, First/Mid-Level Officials and Managers,"56,925.18", Marketing Manager and Business Partner,9,2.67,10.21,Hybrid,Marketing, Full Time,1.02
+ A1LY,No,35, Female, White, First/Mid-Level Officials and Managers,"57,000.00", Camp Director,7,1.25,0.00,Remote,Outdoor Education - CMW, Full Time,0.75
+ A0XB,No,48, Female, Black or African American, First/Mid-Level Officials and Managers,"57,033.60", Data and Business Process Analyst - PT,7,11.67,8.28,Hybrid,Business Systems, Part Time,0.70
+ A1FK,Yes,40, Female, White, Professionals,"57,145.14", Accountant 2,7,6.08,21.94,Hybrid,Finance, Full Time,0.75
+ A0II,Yes,58, Female, White, Administrative Support Workers,"57,396.56", Finance and HR Executive Assistant,10,1.17,0.00,Remote,Finance, Full Time,1.17
+ A0O8,Yes,60, Female, Black or African American, First/Mid-Level Officials and Managers,"58,361.94", Database Managaer,9,0.42,25.34,Hybrid,IT, Full Time,1.04
+ A17R,No,37, Female, White, First/Mid-Level Officials and Managers,"59,225.00", Regional Executive,7,0.58,0.00,Remote,Membership, Full Time,0.78
+ A0N1,Yes,32, Female, White, First/Mid-Level Officials and Managers,"59,488.26"," Senior Manager, Training",7,3.33,13.11,Hybrid,Program Support, Full Time,0.78
+ A0LD,No,41, Female, Black or African American, First/Mid-Level Officials and Managers,"59,512.44", Regional Executive,7,1.08,0.00,Remote,Membership, Full Time,0.78
+ A0H2,No,53, Female, Black or African American, Sales Workers,"59,727.98", Area Executive,9,2.92,0.00,Remote,Membership, Full Time,1.07
+ A0PX,Yes,41, Male, White, First/Mid-Level Officials and Managers,"59,739.94", Donor Service Manager,7,1.42,11.66,Hybrid,Fund Development, Full Time,0.79
+ A1LP,No,70, Male, White, First/Mid-Level Officials and Managers,"59,800.00", Retail Manager,7,4.42,13.28,Hybrid,Badge & Sash, Full Time,0.79
+ A1G2,Yes,40, Female, White, First/Mid-Level Officials and Managers,"60,000.20", Camp Director,8,4.17,26.86,Hybrid,Outdoor Education - CMM, Full Time,0.92
+ A1PC,No,43, Female, Hispanic or Latino, First/Mid-Level Officials and Managers,"60,000.20", Regional Executive,7,0.00,0.00,Remote,Membership, Full Time,0.79
+ A1L9,Yes,46, Female, Black or African American, First/Mid-Level Officials and Managers,"60,000.20", Retail Manager,7,11.50,19.70,Hybrid,Badge & Sash, Full Time,0.79
+ A08Z,Yes,52, Female, White, First/Mid-Level Officials and Managers,"61,030.58", Regional Executive,7,11.17,0.00,Remote,Membership, Full Time,0.80
+ A1I2,Yes,42, Female, White, First/Mid-Level Officials and Managers,"61,200.10", Marketing Manager and Business Partner,7,5.50,14.73,Hybrid,Marketing, Full Time,0.81
+ A12S,Yes,30, Female, White, First/Mid-Level Officials and Managers,"61,800.18", Major Gifts and Planned Giving Manager,10,1.25,11.63,Hybrid,Fund Development, Full Time,1.26
+ A0HD,No,35, Female, Hispanic or Latino, First/Mid-Level Officials and Managers,"61,830.86", Community Outreach & Partnerships Sr Mgr,6,0.08,0.00,Remote,Member Care, Full Time,0.72
+ A0DG,Yes,55, Female, White, First/Mid-Level Officials and Managers,"61,903.40", Camp Property Manager,9,15.17,23.92,Hybrid,Outdoor Program, Full Time,1.11
+ A0NR,Yes,40, Female, Black or African American, Professionals,"62,203.44", Human Resources Generalist,9,4.42,10.82,Hybrid,HR, Full Time,1.11
+ A0TS,No,46, Female, White, First/Mid-Level Officials and Managers,"63,036.00", Camp Director,7,2.58,42.77,Hybrid,Outdoor Education - CMM, Full Time,0.83
+ A06L,Yes,49, Female, Black or African American, First/Mid-Level Officials and Managers,"63,067.68", Retail Manager,7,2.33,11.34,Hybrid,Badge & Sash, Full Time,0.83
+ A0R4,No,54, Female, White, Professionals,"63,512.02", Senior Operations Coordinator,8,10.58,26.02,Hybrid,Outdoor Program, Full Time,0.98
+ A0ZK,Yes,37, Female, Black or African American, First/Mid-Level Officials and Managers,"64,303.98", Marketing Manager and Business Partner,9,2.00,2.96,Hybrid,Marketing, Full Time,1.15
+ A065,No,35, Female, White, First/Mid-Level Officials and Managers,"65,000.00", Camp Director,7,10.75,0.00,Remote,Outdoor Education - CTR, Full Time,0.86
+ A14V,No,35, Female, Unspecified, First/Mid-Level Officials and Managers,"65,000.00", Senior Accountant,6,4.75,36.83,Hybrid,Finance, Full Time,0.76
+ A1P4,No,48, Female, Two or More Races, Administrative Support Workers,"65,000.00", Senior Executive Assistant,7,9.67,33.59,Hybrid,CEO, Full Time,0.86
+ A0Z5,No,40, Female, White, First/Mid-Level Officials and Managers,"65,005.72", Donor Operations Manager,7,4.25,9.22,Hybrid,Fund Development, Full Time,0.86
+ A0GP,Yes,66, Female, White, First/Mid-Level Officials and Managers,"66,008.54", Regional Executive,7,1.83,0.00,Remote,Membership, Full Time,0.87
+ A0E5,No,35, Female, Black or African American, First/Mid-Level Officials and Managers,"66,198.34", Digital Communication Manager,7,0.83,6.28,Hybrid,Marketing, Full Time,0.87
+ A1F1,No,34, Male, Hispanic or Latino, Professionals,"67,600.00", Lead IT Support Specialist,6,5.17,7.94,Hybrid,IT, Full Time,0.79
+ A0PW,Yes,44, Female, Black or African American, First/Mid-Level Officials and Managers,"67,748.72", Marketing Manager and Business Partner,9,9.25,7.32,Hybrid,Marketing, Full Time,1.21
+ A0PQ,No,40, Female, Black or African American, First/Mid-Level Officials and Managers,"67,873.26", Product Program Manager,7,1.92,14.56,Hybrid,Product Programs, Full Time,0.89
+ A1DY,No,31, Female, Hispanic or Latino, First/Mid-Level Officials and Managers,"68,640.26", Senior Marketing Manager,5,2.75,20.73,Hybrid,Marketing, Full Time,0.70
+ A1GQ,No,52, Female, Hispanic or Latino, Professionals,"68,952.00", Corporate Relations and Foundation Manager,7,4.25,3.16,Hybrid,Fund Development, Full Time,0.91
+ A141,Yes,41, Female, Black or African American, First/Mid-Level Officials and Managers,"68,956.94", Development Manager,7,0.92,23.38,Hybrid,Fund Development, Full Time,0.91
+ A04M,No,55, Female, Hispanic or Latino, First/Mid-Level Officials and Managers,"69,210.44", Visual Communication Manager,7,3.58,6.73,Hybrid,Marketing, Full Time,0.91
+ A0IH,Yes,69, Female, Black or African American, Administrative Support Workers,"69,919.20", Executive Asstistant to CEO,8,1.33,20.91,Hybrid,CEO, Full Time,1.08
+ A1CJ,Yes,36, Female, Black or African American, Administrative Support Workers,"70,000.06", Senior Executive Assistant,7,8.17,8.22,Hybrid,Finance, Full Time,0.92
+ A0UF,No,56, Female, White, First/Mid-Level Officials and Managers,"70,000.06", Senior Manager of Volunteer Development,5,3.75,8.28,Hybrid,Program Support, Full Time,0.71
+ A1KF,Yes,41, Female, Two or More Races, First/Mid-Level Officials and Managers,"70,000.06", Senior Marketing Manager,5,2.00,8.28,Hybrid,Marketing, Full Time,0.71
+ A00T,Yes,44, Female, White, First/Mid-Level Officials and Managers,"73,181.42", Director - Major Gifts and Planned Giving,5,1.08,25.78,Hybrid,Fund Development, Full Time,0.75
+ A0DS,Yes,43, Female, Black or African American, First/Mid-Level Officials and Managers,"75,000.12", Accounting Manager,7,2.75,9.32,Hybrid,Finance, Full Time,0.99
+ A142,No,36, Female, Two or More Races, First/Mid-Level Officials and Managers,"76,000.00"," Senior Manager, Girl Experience",5,18.25,14.03,Hybrid,Program Support, Full Time,0.78
+ A0IW,Yes,52, Female, Black or African American, First/Mid-Level Officials and Managers,"82,085.90", Director - Membership Development,5,0.75,11.34,Hybrid,Member Care, Full Time,0.84
+ A1DW,No,64, Female, Black or African American, First/Mid-Level Officials and Managers,"83,878.60", Risk and Business Operations Manager,5,7.33,25.78,Hybrid,Risk and Facilities, Full Time,0.86
+ A0E9,Yes,67, Female, White, First/Mid-Level Officials and Managers,"84,480.24", Regional Executive,7,22.67,0.00,Remote,Membership, Full Time,1.11
+ A067,Yes,54, Female, Hispanic or Latino, First/Mid-Level Officials and Managers,"84,872.06", Director - Outdoor Program,5,1.75,26.02,Hybrid,Outdoor Program, Full Time,0.87
+ A1OL,No,35, Female, White, First/Mid-Level Officials and Managers,"85,000.24", Director of Donor Relations,4,5.42,0.00,Hybrid,Fund Development, Full Time,0.69
+ A0TL,No,43, Female, Black or African American, First/Mid-Level Officials and Managers,"85,280.00", Director - Business Systems,4,3.67,32.38,Hybrid,Business Systems, Full Time,0.69
+ A098,Yes,71, Female, Black or African American, First/Mid-Level Officials and Managers,"86,711.30", Retail Marketing Manager,8,3.92,14.56,Hybrid,Badge & Sash, Full Time,1.33
+ A05R,No,52, Male, White, First/Mid-Level Officials and Managers,"87,819.16", Web Content Manager,6,6.25,34.34,Hybrid,Marketing, Full Time,1.02
+ A02V,Yes,69, Female, White, First/Mid-Level Officials and Managers,"89,174.28", Director - Product Programs,5,0.33,158.15,Hybrid,Product Programs, Full Time,0.91
+ A0UT,Yes,40, Female, White, Executive/Senior-Level Officials and Managers,"95,481.10", Sr Director - Membership Recruitment,4,2.17,13.28,Hybrid,Membership, Full Time,0.77
+ A0IP,No,53, Female, White, First/Mid-Level Officials and Managers,"95,680.26", Accounting Systems Manager,5,2.92,21.54,Hybrid,Finance, Full Time,0.98
+ A0BX,No,64, Male, White, First/Mid-Level Officials and Managers,"101,283.78", Information Technology Manager,5,2.92,6.73,Hybrid,IT, Full Time,1.03
+ A18Z,Yes,63, Female, White, Executive/Senior-Level Officials and Managers,"101,969.92", Sr Director - Outdoor Program and Property,3,5.00,13.41,Hybrid,Outdoor Program, Full Time,0.68
+ A1FW,No,47, Female, Unspecified, Executive/Senior-Level Officials and Managers,"102,000.00", Sr Director - Outdoor and Girl Experience,3,0.58,16.06,Hybrid,Outdoor Program, Full Time,0.68
+ A0FY,Yes,61, Male, Black or African American, Executive/Senior-Level Officials and Managers,"108,675.32", Sr Director - Information Technology,0,6.58,27.76,Hybrid,IT, Full Time,1.00
+ A0ZJ,No,42, Female, Black or African American, Executive/Senior-Level Officials and Managers,"109,856.24", Sr Director - Product Program and Retail,3,13.08,5.18,Hybrid,Product Programs, Full Time,0.74
+ A0QI,Yes,44, Female, White, Executive/Senior-Level Officials and Managers,"110,333.60", Sr Director - Volunteer Support,4,3.33,18.52,Hybrid,Program Support, Full Time,0.89
+ A0UN,No,48, Female, White, First/Mid-Level Officials and Managers,"111,670.78", Director - Accounting and Finance,4,0.42,12.94,Hybrid,Finance, Full Time,0.90
+ A15Q,Yes,50, Female, Black or African American, Executive/Senior-Level Officials and Managers,"118,450.02", Sr Director - Membership,3,0.00,0.00,Remote,Membership, Full Time,0.79
+ A0K8,No,56, Female, Black or African American, Executive/Senior-Level Officials and Managers,"118,560.00", Sr Director - Membership,3,7.00,29.31,Hybrid,Membership, Full Time,0.80
+ A0O9,No,49, Male, White, Executive/Senior-Level Officials and Managers,"136,735.82", Sr Director - Marketing,3,3.33,13.28,Hybrid,Marketing, Full Time,0.92
+ A0U1,Yes,23, Female, White, Service Workers,"145,600.00", Junior Program Facilitator,0,13.50,91.86,Hybrid,Program Support, Full Time,1.00
+ A0U4,Yes,24, Female, White, Service Workers,"145,600.00", Junior Program Facilitator,0,8.17,12.50,Hybrid,Program Support, Full Time,1.00
+ A0UK,Yes,23, Female, White, Service Workers,"145,600.00", Junior Program Facilitator,0,0.92,83.93,Hybrid,Program Support, Full Time,1.00
